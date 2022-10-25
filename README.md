@@ -1,11 +1,10 @@
 <h1 align="center">Hi 👋, I'm Fred Zabulon</h1>
 <h3 align="center">A passionate frontend developer from Uganda</h3>
-
-<img align="right" alt="coding" width="400" src="https://t4.ftcdn.net/jpg/01/35/92/85/360_F_135928597_xU5EzKq6vpOeXPX5vsbI48zfVVkSRlrF.jpg" />
+<img align="center" alt="coding" width="400" src="https://t4.ftcdn.net/jpg/01/35/92/85/360_F_135928597_xU5EzKq6vpOeXPX5vsbI48zfVVkSRlrF.jpg" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fredzabu&label=Profile%20views&color=0e75b6&style=flat" alt="fredzabu" /> </p>
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+<p align="left"> <a href="https://twitter.com/fred zabulon" target="blank"><img src="https://img.shields.io/twitter/follow/fred zabulon?logo=twitter&style=for-the-badge" alt="fred zabulon" /></a> </p>
 
 - 🌱 I’m currently learning **reactjs**
 
@@ -15,6 +14,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://twitter.com/fred zabulon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="fred zabulon" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/asiimwe zabulon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="asiimwe zabulon" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
