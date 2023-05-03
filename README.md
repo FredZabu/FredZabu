@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Fred Zabulon</h1>
-<h3 align="center">A passionate frontend developer from Uganda with ability to collaborate effectively with senior developers while spending extra time to be mentored.Enjoy working closely with team members to ensure workloads are effectively redirected to bottlenecks and personally picking up the slack when necessary.With a passion for both personal growth and for software development, i have attended 500+ hour coding bootcamp to learn new languages while sharpening existing skills.Ready to apply my passion for coding to a talented engineering team to develop quality solutions.</h3>
+<h3 align="center">I've been a front-end developer for over 3 years, and I love it. I've got a passion for building beautiful things with Reactjs, but I also love to work with other technologies—especially Flutter for mobile development.</h3>
 <img align="center" alt="coding" width="400" src="https://t4.ftcdn.net/jpg/01/35/92/85/360_F_135928597_xU5EzKq6vpOeXPX5vsbI48zfVVkSRlrF.jpg" />
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=fredzabu&label=Profile%20views&color=0e75b6&style=flat" alt="fredzabu" /> </p>
