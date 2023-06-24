@@ -11,7 +11,9 @@
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
-<img align="center" src="https://komarev.com/ghpvc/?username=FredZabu&style=flat-square&color=blue" alt=""/>
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=FredZabu&style=flat-square&color=blue" alt=""/>
+</div>
 
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
@@ -52,3 +54,10 @@ I am a Front-end Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmT
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=FredZabu&theme=dark&background=000000)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FredZabu&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+---
+
+### :writing_hand: Blog Posts :
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
