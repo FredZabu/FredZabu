@@ -26,5 +26,5 @@ I am a Front-end Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmT
 
 - :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles plus spending time with my family.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/fredzabulon)[![Gmail Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Gmail&logoColor=white)](fredzabulon133@gmail.com)
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-zabulon-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/fredzabulon)  [![Gmail Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Gmail&logoColor=white)](fredzabulon133@gmail.com)
 
