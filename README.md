@@ -61,3 +61,4 @@ I am a Front-end Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmT
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
+<a href="https://app.daily.dev/fredZabulon"><img src="https://api.daily.dev/devcards/626cf81bf37341ceb875e1cd5064d4cc.png?r=gmj" width="400" alt="Fred Zabulon's Dev Card"/></a>
