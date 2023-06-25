@@ -59,6 +59,6 @@ I am a Front-end Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmT
 
 ### 📖: Blog Readings :
 
-<div align="end">
-  <a href="https://app.daily.dev/fredZabulon"><img src="https://api.daily.dev/devcards/626cf81bf37341ceb875e1cd5064d4cc.png?r=gmj" width="400" alt="Fred Zabulon's Dev Card"/></a>
+<div align="start">
+  <a href="https://app.daily.dev/fredZabulon"><img src="https://api.daily.dev/devcards/626cf81bf37341ceb875e1cd5064d4cc.png?r=gmj"  width="400" height="300" alt="Fred Zabulon's Dev Card"/></a>
 </div>
